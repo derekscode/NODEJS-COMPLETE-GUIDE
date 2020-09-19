@@ -15,8 +15,8 @@ const summarizeUser = (userName, userAge, userHasHobby) => {
   );
 };
 
-// const addOne = (a) => a + 1;
+const addOne = (a) => a + 1;
 const addRandom = () => 1 + 2;
 
 console.log(addRandom());
-// console.log(addOne(1));
+console.log(addOne(1));
